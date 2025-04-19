@@ -474,10 +474,20 @@ form {
   text-align: center;
 }
 
+.project05 {
+  text-align: center;
+}
+
+.project06 {
+  text-align: center;
+}
+
 .project01 p,
 .project02 p,
 .project03 p,
-.project04 p {
+.project04 p,
+.project05 p,
+.project06 p {
   text-decoration: underline;
   text-transform: uppercase;
   color: red;
@@ -486,7 +496,9 @@ form {
 .project01,
 .project02,
 .project03,
-.project04 {
+.project04,
+.project05,
+.project06 {
   margin-bottom: 15px;
 }
 
